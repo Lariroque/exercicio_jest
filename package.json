@@ -1,8 +1,4 @@
-{
-  "devDependencies": {
-    "jest": "^29.5.0"
-  },
-  "name": "exercicio_jest",
+{ "name": "exercicio_jest",
   "version": "1.0.0",
   "main": "index.js",
 
