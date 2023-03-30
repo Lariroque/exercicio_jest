@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "name": "exercicio_jest",
+  "version": "1.0.0",
+  "main": "index.js",
+
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Larissa Roque",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+
